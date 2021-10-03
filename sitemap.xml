@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://dieghernan.github.io/cffr//index.html</loc>
+  </url>
+  <url>
+    <loc>https://dieghernan.github.io/cffr//reference/cff.html</loc>
+  </url>
+  <url>
+    <loc>https://dieghernan.github.io/cffr//reference/cff_create.html</loc>
+  </url>
+  <url>
+    <loc>https://dieghernan.github.io/cffr//reference/cff_parse_citation.html</loc>
+  </url>
+  <url>
+    <loc>https://dieghernan.github.io/cffr//reference/cff_parse_person.html</loc>
+  </url>
+  <url>
+    <loc>https://dieghernan.github.io/cffr//reference/cff_schema.html</loc>
+  </url>
+  <url>
+    <loc>https://dieghernan.github.io/cffr//reference/cff_validate.html</loc>
+  </url>
+  <url>
+    <loc>https://dieghernan.github.io/cffr//reference/cff_write.html</loc>
+  </url>
+  <url>
+    <loc>https://dieghernan.github.io/cffr//reference/cffr-package.html</loc>
+  </url>
+  <url>
+    <loc>https://dieghernan.github.io/cffr//articles/cffr.html</loc>
+  </url>
+  <url>
+    <loc>https://dieghernan.github.io/cffr//articles/crosswalk.html</loc>
+  </url>
+</urlset>
